@@ -74,5 +74,3 @@ while op == 1:
         print("Opcion no valida")
     op=int(input("Digite 1 si desea seguir modificando la lista. \n"
                  "Digite 2 si desea salir. \n"))
-
-

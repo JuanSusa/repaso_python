@@ -59,7 +59,7 @@ while True:
                 print("Usted ha cancelado el proceso de eliminación.")
                 print(fruver)
             else:
-                print("El artículo {borrar} no existe en el fruver.")
+                print(f"El artículo {borrar} no existe en el fruver.")
             
 
     elif opcion == 4:
